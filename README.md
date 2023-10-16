@@ -8,4 +8,6 @@ A large set of plaintexts is generated in the form of bitstreams. These plaintex
 
 The dataset is segregated into two parts - training and test. The training dataset comprises 2,50,000 bitstreams. The training dataset includes the labels. The test dataset comprises 62,500 bitstreams without any labels. The labels of the test dataset are to be predicted. The submitted trained models will be applied on the test dataset by the organizers.
 
-The performance metric for the multi-class classification on the test dataset will be the accuracy score.
+The performance metric for the two-class classification on the test dataset will be the accuracy score.
+
+NOTE: This classification task is challenging and anything beyond 50% is a non-trivial result.
