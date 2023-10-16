@@ -10,4 +10,4 @@ The dataset is segregated into two parts - training and test. The training datas
 
 The performance metric for the two-class classification on the test dataset will be the accuracy score.
 
-NOTE: This classification task is challenging and anything beyond 50% is a non-trivial result.
+NOTE: This classification task is challenging and anything beyond 50% may be a non-trivial result. So, you are encouraged to make the final submission even if your classification accuracy is poor.
